@@ -10,8 +10,10 @@ It happens once in every year with two rounds :
 
 
 ### My Team's Story :
-I participated this year 2021 along with 2 of my friends , we also practiced well the previous year question papers . \n
+I participated this year 2021 along with 2 of my friends , we also practiced well the previous year question papers .
 The whole journey was quite productive and full of new learnings . 
+
+
 We were able to acheive a World Rank of 5246 with our Rank in India being 1692 .
 
 ### Here are some of snapshots of our submissions :
